@@ -2,6 +2,8 @@
 
 [Udemy Video Link](https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14298658#content)
 
+[Corresponding Lab Link](https://uklabs.kodekloud.com/topic/practice-test-replicasets-2/)
+
 ## Notes
 
 ### Replication Controller

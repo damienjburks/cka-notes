@@ -2,6 +2,8 @@
 
 [Udemy Video Link](https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14295508#overview)
 
+[Corresponding Lab link](https://uklabs.kodekloud.com/topic/practice-tests-deployments-2/)
+
 ## Notes
 
 - Deployments provide the capability to upgrade replica sets seamlessly. They are Kubernetes objects that offer "declarative" updates to Pods and ReplicaSets.

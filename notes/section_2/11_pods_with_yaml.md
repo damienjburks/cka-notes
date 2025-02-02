@@ -2,6 +2,8 @@
 
 [Video Link](https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/16214484#content)
 
+[Corresponding Lab Link](https://uklabs.kodekloud.com/topic/practice-test-pods-2/)
+
 ## Notes
 
 - `pod-definition.yml` example:

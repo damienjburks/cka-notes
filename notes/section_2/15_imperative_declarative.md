@@ -2,8 +2,6 @@
 
 [Udemy Video Link](https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/21500820#content)
 
-Corresponding Lab: https://learn.kodekloud.com/user/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests/module/e6ae2f68-9b3a-439e-a534-d63d372840d2/lesson/b3761359-ab93-48d2-82f9-91479f166c40?utm_source=udemy&utm_medium=labs&utm_campaign=kubernetes
-
 ## Notes
 
 - **Imperative**: Specifies the exact steps required to achieve a desired state.

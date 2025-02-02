@@ -2,6 +2,8 @@
 
 [Udemy Video Link](https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14295512#content)
 
+[Corresponding Lab Link](https://uklabs.kodekloud.com/topic/practice-test-services-2/)
+
 ![Service Diagram](../../imgs/notes/section_2/service-img1.png)
 
 ## Notes
