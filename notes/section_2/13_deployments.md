@@ -18,6 +18,10 @@ metadata:
         type: front-end
 spec:
     replicas: 3
+    selector:
+        matchLabels:
+            app: myapp
+            type: front-end
     template:
         metadata:
             labels:
@@ -26,7 +30,7 @@ spec:
         spec:
             containers:
             - name: nginx-container
-                image: nginx
+              image: nginx
 ```
 
 - Commands for creating and verifying deployments:
