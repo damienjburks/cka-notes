@@ -24,9 +24,9 @@ kubectl rollout history deployment/myapp-deployment
 - **Rolling Update (default)**: Gradually replaces old pods with new ones.
 
 - Differences can be observed using the `kubectl describe` command as shown in the image below:
-  ![Deployment Strategies](../../imgs/notes/section_5/image.png)
+  ![Deployment Strategies](image.png)
 
-![Deployment Process](../../imgs/notes/section_5/image-1.png)
+![Deployment Process](image-1.png)
 
 - During upgrades, two ReplicaSets are created. The red ones represent the old version, and the blue ones represent the new version.
 - To undo a change, run:
@@ -35,6 +35,6 @@ kubectl rollout history deployment/myapp-deployment
   kubectl rollout undo deployment/myapp-deployment
   ```
 
-![Command Summary](../../imgs/notes/section_5/image-2.png)
+![Command Summary](image-2.png)
 
 - Summary of essential commands.
