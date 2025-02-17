@@ -6,7 +6,7 @@ Lab Link: https://uklabs.kodekloud.com/topic/practice-test-env-variables-2/
 
 ## Notes
 
-![ENV Value Types](image-4.png)
+![ENV Value Types](../../imgs/notes/section_5/image-4.png)
 
 ### Example
 
@@ -64,4 +64,4 @@ data:
 
 ## Injecting Values into Pods
 
-![alt text](image-5.png)
+![alt text](../../imgs/notes/section_5/image-5.png)

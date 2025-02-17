@@ -12,11 +12,11 @@ Lab Link: https://uklabs.kodekloud.com/topic/practice-test-secrets-2/
 
 #### Imperative Way
 
-![Imperative Way](image-3.png)
+![Imperative Way](../../imgs/notes/section_5/image-3.png)
 
 #### Declarative Way
 
-![Declarative Way](image-6.png)
+![Declarative Way](../../imgs/notes/section_5/image-6.png)
 
 ### Retrieving Secrets
 
@@ -32,7 +32,7 @@ Lab Link: https://uklabs.kodekloud.com/topic/practice-test-secrets-2/
 ### Using Secrets
 
 - Secrets can be referenced as environment variables:
-  ![Environment Variable](image-7.png)
+  ![Environment Variable](../../imgs/notes/section_5/image-7.png)
 
 ### Important Considerations
 
