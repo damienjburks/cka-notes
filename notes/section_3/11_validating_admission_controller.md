@@ -10,5 +10,5 @@ Lab Link: https://learn.kodekloud.com/user/courses/udemy-labs-certified-kubernet
 - validating admission controllers validate the requests that are coming in. - NamespaceExists
 - flow of admission controllers - mutate first then validate
 
-![alt text](image-2.png)
+![alt text](../../imgs/notes/section_3/image-2.png)
 - example webhook configuration that'll be called when pods are needed to be created.

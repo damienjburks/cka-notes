@@ -6,7 +6,7 @@
 
 - All releases can be found [here](https://github.com/kubernetes/kubernetes/releases).
 - Version information for core components:
-    ![Kubernetes Components](image.png)
+    ![Kubernetes Components](../../imgs/notes/section_6/image.png)
 
 For more information, refer to the [Kubernetes API Overview](https://kubernetes.io/docs/concepts/overview/kubernetes-api/).
 

@@ -6,7 +6,7 @@
 
 ## Notes
 
-![RBAC](image.png)
+![RBAC](../../imgs/notes/section_3/image.png)
 
 - With RBAC, you can restrict access to specific resource names, namespaces, and control the ability to create, list, and delete pods, deployments, services, etc.
 
@@ -30,4 +30,4 @@
   ```
 
 - Enabling admission controllers:
-  ![Enabling Admission Controllers](image-1.png)
+  ![Enabling Admission Controllers](../../imgs/notes/section_3/image-1.png)
